@@ -1,4 +1,4 @@
-# CellOracle_RCC
+# Renal Cell Carcinoma
 
 
 ## Repository Structure
